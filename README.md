@@ -4,3 +4,5 @@ If you working as System Administrator sometimes you want to check your systems 
 And simplest way to do this is PING command, but PING command working only for one computer/system. 
 But you want to do this for 10-15 computers/systems.
 Simple PING command can not solve this problem but PowerShell can.
+
+c:\> PowerShell.exe -File  ping-cmp.ps1 -ExecutionPolicy Bypass
