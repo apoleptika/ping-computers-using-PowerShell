@@ -1,0 +1,8 @@
+192.168.30.10
+DC01
+192.168.30.20
+DnsServ01
+WebServ02
+FileServer01
+DbServer02
+Abdurrahim-PC
