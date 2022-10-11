@@ -7,5 +7,6 @@ Simple PING command can not solve this problem but PowerShell can.
 
 ***c:\>  PowerShell.exe -File ping_computers.ps1 -ExecutionPolicy Bypass***
 
+<sub> Aldin Romanov Aldinov </sub>
 <sub><sup> Aldin Romanov Aldinov </sup></sub>
 
