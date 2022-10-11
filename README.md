@@ -5,4 +5,7 @@ And simplest way to do this is PING command, but PING command working only for o
 But you want to do this for 10-15 computers/systems.
 Simple PING command can not solve this problem but PowerShell can.
 
-***c:\> PowerShell.exe -File ping_computers.ps1 -ExecutionPolicy Bypass***
+***c:\>  PowerShell.exe -File ping_computers.ps1 -ExecutionPolicy Bypass***
+
+<sub><sup> Aldin Romanov Aldinov </sup></sub>
+
