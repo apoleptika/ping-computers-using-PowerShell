@@ -1,4 +1,4 @@
-# SystemIPs.txt file incluedes computer IP address or system names 
+# SystemIPs.txt, this file includes computer IP address or computer/system names.
 # 192.168.30.31
 # DC01
 # DnsServ
