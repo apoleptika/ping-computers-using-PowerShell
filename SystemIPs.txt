@@ -1,8 +1,13 @@
 192.168.30.10
 DC01
 192.168.30.20
-DnsServ01
-WebServ02
+DnsSrv01
+WebSrv02
 FileServer01
 DbServer02
-Abdurrahim-PC
+PrinterSrv01
+PC-Abdurrahim
+PC-Aleksey
+PC-Anastasia
+
+
