@@ -4,7 +4,7 @@
 # DC01
 # DnsServ
 # WebServ
-# Abdurrahim-PC
+# PC-Abdurrahim
 # ...
 
 # clear the screen
